@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "TestCase",
 	"category" : "OP-UML-XMI-Tests",
 	"classinstvars" : [ ],
 	"pools" : [ ],
